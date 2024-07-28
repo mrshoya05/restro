@@ -4,7 +4,7 @@ import  {  toast } from "react-hot-toast";
 
 
 const HeroSection = () => {
-  toast("hello i am  toast ")
+ 
 
   return (
     
