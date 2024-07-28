@@ -1,0 +1,20 @@
+{
+  "name": "restro",
+  "version": "1.0.0",
+  "description": "restro website ",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "shoyab khan",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "validator": "^13.12.0"
+  }
+}
